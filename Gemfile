@@ -34,6 +34,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'faker', '~> 1.7', '>= 1.7.3'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+gem 'kramdown', '~> 1.13', '>= 1.13.2'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
